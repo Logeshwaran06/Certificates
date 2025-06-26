@@ -6,7 +6,7 @@ This repository contains my Resume and my certificates from various courses and 
 
 ### For Live Link:
 
-- [Resume to Download](Link to navigate on new browser tab da macha...){open with new tab icon}
+- [Resume to Download](https://github.com/Logeshwaran06/Certificates/blob/main/My_Resume.pdf){open with new tab icon}
 - [Introduction to MERN Stack](Link to navigate on new browser tab da macha...){open with new tab icon}
 - [Introduction to Internet of Things (NPTEL)](Link to navigate on new browser tab da macha...){open with new tab icon}
 
