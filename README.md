@@ -1,4 +1,4 @@
-# My Certificates
+# My Resume and Certificates 
 
 This repository contains my Resume and my certificates from various courses and projects I completed.
 
