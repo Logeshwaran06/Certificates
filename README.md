@@ -1,6 +1,10 @@
 # My Certificates
 
-This repository contains certificates from various courses and projects I completed.
+This repository contains my Resume and my certificates from various courses and projects I completed.
+
+## Resume
+
+- [Resume to Download](https://raw.githubusercontent.com/Logeshwaran06/Certificates/main/My_Resume.pdf)
 
 ## 📜 Certificates
 
