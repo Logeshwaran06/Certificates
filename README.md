@@ -6,9 +6,9 @@ This repository contains my Resume and my certificates from various courses and 
 
 ### 🔗 For Live View (Open in Browser):
 
-- [Resume to View](https://github.com/Logeshwaran06/Certificates/blob/main/My_Resume.pdf) ![Open in new tab](https://raw.githubusercontent.com/Logeshwaran06/Certificates/main/open-new-tab-icon.png)
-- [Introduction to MERN Stack](https://github.com/Logeshwaran06/Certificates/blob/main/MERN%20stack%20certificate.pdf) ![Open in new tab](https://raw.githubusercontent.com/Logeshwaran06/Certificates/main/open-new-tab-icon.png)
-- [Introduction to Internet of Things (NPTEL)](https://github.com/Logeshwaran06/Certificates/blob/main/IOT%20NPTEL%20Certificate.pdf) ![Open in new tab](https://raw.githubusercontent.com/Logeshwaran06/Certificates/main/open-new-tab-icon.png)
+- [Resume to View](https://github.com/Logeshwaran06/Certificates/blob/main/My_Resume.pdf)
+- [Introduction to MERN Stack](https://github.com/Logeshwaran06/Certificates/blob/main/MERN%20stack%20certificate.pdf)
+- [Introduction to Internet of Things (NPTEL)](https://github.com/Logeshwaran06/Certificates/blob/main/IOT%20NPTEL%20Certificate.pdf)
 
 ### 📥 To Download Directly:
 
